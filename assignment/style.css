@@ -9,3 +9,33 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+body {
+    background-color: tomato;
+}
+
+header {
+    background-color: peachpuff;
+    color: midnightblue;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    border: 5px solid midnightblue;
+    margin-top: 30px;
+}
+
+li { 
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+
+footer {
+    background-color: peachpuff;
+    padding: 20px;
+}
+
+p {
+    font-style: italic;
+    color: midnightblue;
+}
